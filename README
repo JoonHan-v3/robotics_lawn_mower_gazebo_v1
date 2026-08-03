@@ -6,3 +6,5 @@ Terminal2: key controller
 
 Terminal3: run blade
   ros2 topic pub --once /blade_cmd_vel std_msgs/msg/Float64 "{data: 30.0}"
+
+Demo video: version1.mp4
