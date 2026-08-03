@@ -2,7 +2,7 @@
 
 A ROS 2 + Gazebo simulation of a differential-drive robotic lawn mower: a chassis on two driven wheels and a rear caster, with a spinning cutting blade mounted under a mower deck. Driving it over the lawn with the blade spinning paints a "mowed" trail on the ground.
 
-![demo](version1.mp4)
+![demo](demo.mp4)
 
 ## Packages
 
